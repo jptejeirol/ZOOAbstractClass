@@ -2,8 +2,10 @@
 package zoologico;
 
 /**
- *
- * @author Néstor
+Estas clases estan sujetas a cambios y perspectivas
+* del programador 
+* 
+* CUMPLA CON LOS CASOS DE USO
  */
 public abstract class Zoo{
     
