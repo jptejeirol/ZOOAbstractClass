@@ -11,7 +11,7 @@ public abstract class Zoo{
    
    public abstract double cantar(double num);
    
-   public int alojar(){
+   public  int alojar(){
        return 1;
    }
  

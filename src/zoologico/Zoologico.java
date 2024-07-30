@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Desarrollar el tema de Jswing que usted seleccione (parejas)
+    Debe subir tres versiones del codigo en github
+    Aproveche y repase para el parcial
+    
  */
 package zoologico;
 
