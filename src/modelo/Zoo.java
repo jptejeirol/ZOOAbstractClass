@@ -1,5 +1,5 @@
 
-package controlador;
+package modelo;
 
 import modelo.Animales;
 
