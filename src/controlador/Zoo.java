@@ -1,5 +1,7 @@
 
-package zoologico;
+package controlador;
+
+import modelo.Animales;
 
 /**
 Estas clases estan sujetas a cambios y perspectivas

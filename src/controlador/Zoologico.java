@@ -4,7 +4,9 @@
     Aproveche y repase para el parcial
     
  */
-package zoologico;
+package controlador;
+
+import modelo.Animales;
 
 /**
  *

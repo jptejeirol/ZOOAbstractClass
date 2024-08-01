@@ -1,5 +1,7 @@
 
-package zoologico;
+package modelo;
+
+import controlador.Zoo;
 
 
 public class Animales extends Zoo{
