@@ -4,10 +4,18 @@
  */
 package modelo;
 
-/**
- *
- * @author juanp
- */
+import java.time.LocalTime;
+
 public class Alimento {
-    
+    private String tipo;
+    private double cantidad;
+    private LocalTime horario;
+
+    public Alimento(String tipo, double cantidad, LocalTime horario) {
+        this.tipo = tipo;
+        this.cantidad = cantidad;
+        this.horario = horario;
+    }
+
+    // Métodos getter y setter
 }
